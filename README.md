@@ -1,4 +1,4 @@
-# superheroes-ui
+# Superheroes UI
 
 ## Project setup
 ```
